@@ -16,9 +16,10 @@ __Glossary: Dependencies, Packages, Modules__
   `npm run start`
 
   ```json
-    "scripts: {
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
       "start": "node index.js"
-    }"
+    },
   ```
 
   `npm run start`
